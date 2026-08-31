@@ -8,3 +8,8 @@ h1{
     text-align: center;
     color: red;
 }
+img{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
