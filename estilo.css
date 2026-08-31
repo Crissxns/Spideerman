@@ -21,3 +21,15 @@ ul{
     width: 250px;
     margin: auto;
 }
+p{
+    text-align: center;
+}
+
+img{
+    border-radius: 10px;
+}
+
+h1{
+    background-color: darkred;
+    padding: 15px;
+}
