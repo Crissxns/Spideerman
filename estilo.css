@@ -17,3 +17,7 @@ h2{
     color: blue;
     text-align: center;
 }
+ul{
+    width: 250px;
+    margin: auto;
+}
